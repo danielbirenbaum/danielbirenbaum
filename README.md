@@ -28,7 +28,5 @@ _Experience with:_
 
 _Learning/Improving_:
 <div>
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="40" width="60" style="color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-          
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
 </div>
