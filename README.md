@@ -29,6 +29,8 @@ _Learning/Improving_:
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
 </div>
 
+##
+
 _Next steps_:
 
 <div>
