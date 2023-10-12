@@ -20,8 +20,6 @@ _Favorite lenguages:_
 _Experience with:_ 
 <div>
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                 
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
 </div>
 
 ##
@@ -29,4 +27,11 @@ _Experience with:_
 _Learning/Improving_:
 <div>
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
+</div>
+
+_Next steps_:
+
+<div>
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />        
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> 
 </div>
