@@ -6,7 +6,7 @@
 My name is Daniel, a high school student. I am studing to become a dev.
 
 ##
-_Favorite lenguages:_
+_Programing lenguages:_
 <div style="display: inline">
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
