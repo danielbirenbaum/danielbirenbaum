@@ -3,7 +3,7 @@
 </header>
 
 ### Hello 👋
-My name is Daniel, a high school student. I am studing to become a dev.
+My name is Daniel, I am a IT Technician and Developer!
 
 ##
 _Programing lenguages:_
@@ -12,21 +12,39 @@ _Programing lenguages:_
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40" widht="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>        
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+  
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+  <!--
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  -->
+  
 </div>
 
 ##
 _Experience with:_ 
 <div>
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+               
 </div>
 
 ##
 
 _Learning/Improving_:
 <div>
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
+  <!--
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  -->
+  
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
+  
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+          
+          
+         
 </div>
 
 ##
