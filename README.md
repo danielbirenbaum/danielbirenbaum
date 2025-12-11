@@ -3,7 +3,7 @@
 </header>
 
 ### Hello 👋
-My name is Daniel, I am a IT Technician and Developer!
+My name is Daniel, I am a IT Technician and undergraduate student!
 
 ##
 _Programing lenguages:_
