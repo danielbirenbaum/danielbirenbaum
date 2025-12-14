@@ -2,11 +2,11 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 
-### Hello 👋
+### Hello
 My name is Daniel, I am a IT Technician and undergraduate student!
 
 ##
-_Programing lenguages:_
+_Programming languages:_
 <div style="display: inline">
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -14,10 +14,5 @@ _Programing lenguages:_
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
   
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-  <!--
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  -->
-  
 </div>
 
