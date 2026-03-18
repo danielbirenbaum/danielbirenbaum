@@ -12,7 +12,5 @@ _Programming languages:_
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40" widht="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>        
   <img height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-  
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
